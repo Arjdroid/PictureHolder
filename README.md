@@ -1,2 +1,2 @@
 # PictureHolder
-A repo that will hold all the pictures for my other repositories so that there's less "bloat" for users when cloning my other repos while still allowing me to put pretty pictures in the repositories! Also makes picture changes easier for me.
+This is a repository that holds all the documentation / README pictures for my other repositories so that there's less unecessary files and a smaller download size for users when they are cloning my other repos. This allows me to put pretty pictures in the README.md while still keeping the size of the repository small which makes managing easier and downloads faster. An added bonus is that it makes picture changes easier for me.
